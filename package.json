@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.8.1"
+  },
+  "type": "module"
+}
